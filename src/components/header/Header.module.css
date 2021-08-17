@@ -1,0 +1,9 @@
+.header {
+    background-color: #64b5f6;
+    grid-area: h;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Roboto, serif;
+    font-size: 4vh;
+    padding: 1.5vh;
+}

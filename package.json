@@ -1,0 +1,43 @@
+{
+  "name": "diploma.project.front",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.6.1",
+    "@material-ui/icons": "^4.5.1",
+    "axios": "^0.21.1",
+    "blob": "0.0.5",
+    "form-data": "latest",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-dropzone": "^10.2.0",
+    "react-files": "^2.4.8",
+    "react-native": "^0.64.2",
+    "react-native-elements": "^1.2.7",
+    "react-native-vector-icons": "^6.6.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "typeface-roboto": "0.0.75"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

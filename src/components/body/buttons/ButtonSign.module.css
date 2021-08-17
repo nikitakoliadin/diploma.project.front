@@ -1,0 +1,13 @@
+.myButton {
+    background-color:#4db6ac;
+    display: table-column;
+    border-radius: 37px;
+    border:2px solid #b2dfdb;
+    cursor:pointer;
+    color:#1a237e;
+    font-family: Roboto, serif;
+    font-size:3vh;
+    margin: 10vh;
+    width: 20vw;
+    height: 15vh;
+}

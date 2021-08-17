@@ -1,0 +1,8 @@
+.footer {
+    background-color: #7083c0;
+    grid-area: f;
+    border-radius: 10px;
+    font-family: Roboto, serif;
+    font-size: 2vh;
+    padding: 1vh;
+}
