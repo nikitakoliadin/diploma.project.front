@@ -32,7 +32,7 @@ class ButtonSendRequest extends React.Component {
             .then(res => {
                 let response = res.data.sign;
                 console.log(response)
-                download("myDickIsSoBig", response);
+                download("test.sig", response);
 
             })
             .catch((err) => {
